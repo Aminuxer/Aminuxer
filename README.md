@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and Networks
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on OSS software
-- 📫 How to reach me ...
+- 📫 https://aminux.wordpress.com/
 
 <!---
 Aminuxer/Aminuxer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
